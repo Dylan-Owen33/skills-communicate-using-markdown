@@ -2,6 +2,8 @@
 
 ## Morning Planning
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 Practice Markdown headings and organize the GitHub Skills exercises.
 
 - [ ] Check out the [GitHub blog](https://github.blog/) for topic ideas.
